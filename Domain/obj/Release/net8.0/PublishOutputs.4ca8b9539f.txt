@@ -1,0 +1,3 @@
+C:\MODSEN\LibraryApplication\bin\Release\net8.0\publish\Domain.dll
+C:\MODSEN\LibraryApplication\bin\Release\net8.0\publish\Domain.deps.json
+C:\MODSEN\LibraryApplication\bin\Release\net8.0\publish\Domain.pdb

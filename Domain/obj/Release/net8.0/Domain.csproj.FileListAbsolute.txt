@@ -1,0 +1,12 @@
+C:\MODSEN\LibraryApplication\Domain\bin\Release\net8.0\Domain.deps.json
+C:\MODSEN\LibraryApplication\Domain\bin\Release\net8.0\Domain.dll
+C:\MODSEN\LibraryApplication\Domain\bin\Release\net8.0\Domain.pdb
+C:\MODSEN\LibraryApplication\Domain\obj\Release\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\MODSEN\LibraryApplication\Domain\obj\Release\net8.0\Domain.AssemblyInfoInputs.cache
+C:\MODSEN\LibraryApplication\Domain\obj\Release\net8.0\Domain.AssemblyInfo.cs
+C:\MODSEN\LibraryApplication\Domain\obj\Release\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\MODSEN\LibraryApplication\Domain\obj\Release\net8.0\Domain.sourcelink.json
+C:\MODSEN\LibraryApplication\Domain\obj\Release\net8.0\Domain.dll
+C:\MODSEN\LibraryApplication\Domain\obj\Release\net8.0\refint\Domain.dll
+C:\MODSEN\LibraryApplication\Domain\obj\Release\net8.0\Domain.pdb
+C:\MODSEN\LibraryApplication\Domain\obj\Release\net8.0\ref\Domain.dll

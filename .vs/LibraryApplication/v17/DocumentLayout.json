@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\MODSEN\\LibraryApplication\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{313B9B9C-D653-4779-BE81-6FCB448AADF7}|LibraryWebApi\\LibraryWebApi.csproj|c:\\modsen\\libraryapplication\\librarywebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{313B9B9C-D653-4779-BE81-6FCB448AADF7}|LibraryWebApi\\LibraryWebApi.csproj|solutionrelative:librarywebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{313B9B9C-D653-4779-BE81-6FCB448AADF7}|LibraryWebApi\\LibraryWebApi.csproj|c:\\modsen\\libraryapplication\\librarywebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{313B9B9C-D653-4779-BE81-6FCB448AADF7}|LibraryWebApi\\LibraryWebApi.csproj|solutionrelative:librarywebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{313B9B9C-D653-4779-BE81-6FCB448AADF7}|LibraryWebApi\\LibraryWebApi.csproj|c:\\modsen\\libraryapplication\\librarywebapi\\services\\userservice\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{313B9B9C-D653-4779-BE81-6FCB448AADF7}|LibraryWebApi\\LibraryWebApi.csproj|solutionrelative:librarywebapi\\services\\userservice\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -111,14 +119,6 @@
       "RelativeMoniker": "D:0:0:{313B9B9C-D653-4779-BE81-6FCB448AADF7}|LibraryWebApi\\LibraryWebApi.csproj|solutionrelative:librarywebapi\\validators\\authorvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{313B9B9C-D653-4779-BE81-6FCB448AADF7}|LibraryWebApi\\LibraryWebApi.csproj|c:\\modsen\\libraryapplication\\librarywebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{313B9B9C-D653-4779-BE81-6FCB448AADF7}|LibraryWebApi\\LibraryWebApi.csproj|solutionrelative:librarywebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{313B9B9C-D653-4779-BE81-6FCB448AADF7}|LibraryWebApi\\LibraryWebApi.csproj|c:\\modsen\\libraryapplication\\librarywebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{313B9B9C-D653-4779-BE81-6FCB448AADF7}|LibraryWebApi\\LibraryWebApi.csproj|solutionrelative:librarywebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{43F98563-0390-4089-A1D0-345D8AE94962}|Domain\\Domain.csproj|c:\\modsen\\libraryapplication\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43F98563-0390-4089-A1D0-345D8AE94962}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -130,7 +130,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -138,32 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Services\\UserService\\UserService.cs",
-              "RelativeDocumentMoniker": "LibraryWebApi\\Services\\UserService\\UserService.cs",
-              "ToolTip": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Services\\UserService\\UserService.cs",
-              "RelativeToolTip": "LibraryWebApi\\Services\\UserService\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T08:09:36.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BookConfiguration.cs",
-              "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Data\\Configurations\\BookConfiguration.cs",
-              "RelativeDocumentMoniker": "LibraryWebApi\\Data\\Configurations\\BookConfiguration.cs",
-              "ToolTip": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Data\\Configurations\\BookConfiguration.cs",
-              "RelativeToolTip": "LibraryWebApi\\Data\\Configurations\\BookConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T09:03:05.194Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "AuthorConfiguration.cs",
               "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Data\\Configurations\\AuthorConfiguration.cs",
               "RelativeDocumentMoniker": "LibraryWebApi\\Data\\Configurations\\AuthorConfiguration.cs",
@@ -175,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "20250217135407_AddBookImage.cs",
               "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Migrations\\20250217135407_AddBookImage.cs",
               "RelativeDocumentMoniker": "LibraryWebApi\\Migrations\\20250217135407_AddBookImage.cs",
@@ -187,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "TokenService.cs",
               "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Services\\TokenServices\\TokenService.cs",
               "RelativeDocumentMoniker": "LibraryWebApi\\Services\\TokenServices\\TokenService.cs",
@@ -195,12 +170,11 @@
               "RelativeToolTip": "LibraryWebApi\\Services\\TokenServices\\TokenService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T07:52:24.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T07:52:24.49Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Services\\UserService\\IUserRepository.cs",
               "RelativeDocumentMoniker": "LibraryWebApi\\Services\\UserService\\IUserRepository.cs",
@@ -208,12 +182,11 @@
               "RelativeToolTip": "LibraryWebApi\\Services\\UserService\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T08:02:13.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T08:02:13.531Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Services\\UserService\\UserRepository.cs",
               "RelativeDocumentMoniker": "LibraryWebApi\\Services\\UserService\\UserRepository.cs",
@@ -221,12 +194,11 @@
               "RelativeToolTip": "LibraryWebApi\\Services\\UserService\\UserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T08:02:33.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T08:02:33.288Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "BookRepository.cs",
               "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Services\\BookService\\BookRepository.cs",
               "RelativeDocumentMoniker": "LibraryWebApi\\Services\\BookService\\BookRepository.cs",
@@ -234,12 +206,11 @@
               "RelativeToolTip": "LibraryWebApi\\Services\\BookService\\BookRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T07:06:53.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T07:06:53.541Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "LibraryWebApi\\Controllers\\AuthController.cs",
@@ -247,12 +218,11 @@
               "RelativeToolTip": "LibraryWebApi\\Controllers\\AuthController.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAA5wCgAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T07:55:02.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T07:55:02.554Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\Domain\\Entities\\Book.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Book.cs",
@@ -264,7 +234,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryWebApi\\appsettings.json",
+              "ToolTip": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\appsettings.json",
+              "RelativeToolTip": "LibraryWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-22T10:18:47.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryWebApi\\Program.cs",
+              "ToolTip": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Program.cs",
+              "RelativeToolTip": "LibraryWebApi\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwCEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:21:29.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookConfiguration.cs",
+              "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Data\\Configurations\\BookConfiguration.cs",
+              "RelativeDocumentMoniker": "LibraryWebApi\\Data\\Configurations\\BookConfiguration.cs",
+              "ToolTip": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Data\\Configurations\\BookConfiguration.cs",
+              "RelativeToolTip": "LibraryWebApi\\Data\\Configurations\\BookConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:03:05.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Services\\UserService\\UserService.cs",
+              "RelativeDocumentMoniker": "LibraryWebApi\\Services\\UserService\\UserService.cs",
+              "ToolTip": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Services\\UserService\\UserService.cs",
+              "RelativeToolTip": "LibraryWebApi\\Services\\UserService\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:09:36.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Author.cs",
               "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\Domain\\Entities\\Author.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Author.cs",
@@ -276,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "LibraryWebApi\\Data\\AppDbContext.cs",
@@ -288,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "AuthorRepository.cs",
               "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Services\\AuthorService\\AuthorRepository.cs",
               "RelativeDocumentMoniker": "LibraryWebApi\\Services\\AuthorService\\AuthorRepository.cs",
@@ -300,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "UserConfiguration.cs",
               "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Data\\Configurations\\UserConfiguration.cs",
               "RelativeDocumentMoniker": "LibraryWebApi\\Data\\Configurations\\UserConfiguration.cs",
@@ -312,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "20250217100503_OnDeleteAdd.cs",
               "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Migrations\\20250217100503_OnDeleteAdd.cs",
               "RelativeDocumentMoniker": "LibraryWebApi\\Migrations\\20250217100503_OnDeleteAdd.cs",
@@ -324,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "20250217091023_AddUsersTable.cs",
               "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Migrations\\20250217091023_AddUsersTable.cs",
               "RelativeDocumentMoniker": "LibraryWebApi\\Migrations\\20250217091023_AddUsersTable.cs",
@@ -336,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ExceptionMiddleware.cs",
               "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Middleware\\ExceptionMiddleware.cs",
               "RelativeDocumentMoniker": "LibraryWebApi\\Middleware\\ExceptionMiddleware.cs",
@@ -348,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "LibraryWebApi\\Migrations\\AppDbContextModelSnapshot.cs",
@@ -360,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "AuthorsController.cs",
               "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Controllers\\AuthorsController.cs",
               "RelativeDocumentMoniker": "LibraryWebApi\\Controllers\\AuthorsController.cs",
@@ -372,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "AuthorValidator.cs",
               "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Validators\\AuthorValidator.cs",
               "RelativeDocumentMoniker": "LibraryWebApi\\Validators\\AuthorValidator.cs",
@@ -384,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "IBookRepository.cs",
               "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Services\\BookService\\IBookRepository.cs",
               "RelativeDocumentMoniker": "LibraryWebApi\\Services\\BookService\\IBookRepository.cs",
@@ -396,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "BooksController.cs",
               "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "LibraryWebApi\\Controllers\\BooksController.cs",
@@ -408,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "BookDTO.cs",
               "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\DTO\\BookDTO.cs",
               "RelativeDocumentMoniker": "LibraryWebApi\\DTO\\BookDTO.cs",
@@ -420,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "UserValidator.cs",
               "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Validators\\UserValidator.cs",
               "RelativeDocumentMoniker": "LibraryWebApi\\Validators\\UserValidator.cs",
@@ -432,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "AuthorDTO.cs",
               "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\DTO\\AuthorDTO.cs",
               "RelativeDocumentMoniker": "LibraryWebApi\\DTO\\AuthorDTO.cs",
@@ -444,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "IAuthorRepository.cs",
               "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Services\\AuthorService\\IAuthorRepository.cs",
               "RelativeDocumentMoniker": "LibraryWebApi\\Services\\AuthorService\\IAuthorRepository.cs",
@@ -456,7 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "BookValidator.cs",
               "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Validators\\BookValidator.cs",
               "RelativeDocumentMoniker": "LibraryWebApi\\Validators\\BookValidator.cs",
@@ -465,30 +485,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T11:25:48.213Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "LibraryWebApi\\appsettings.json",
-              "ToolTip": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\appsettings.json",
-              "RelativeToolTip": "LibraryWebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-22T10:18:47.485Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Program.cs",
-              "RelativeDocumentMoniker": "LibraryWebApi\\Program.cs",
-              "ToolTip": "C:\\MODSEN\\LibraryApplication\\LibraryWebApi\\Program.cs",
-              "RelativeToolTip": "LibraryWebApi\\Program.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAcwE0AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T10:21:29.979Z"
             },
             {
               "$type": "Document",
