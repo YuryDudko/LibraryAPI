@@ -16,8 +16,9 @@ public class Book
 
     //author foreighn key
     public int AuthorId { get; set; }
-    public Author Author { get; set; } = null!;
+    public Author? Author { get; set; } = null!;
 
     public DateTime BorrowedAt { get; set; }
     public DateTime ReturnBy { get; set; }
+    public byte[]? ImageData { get; set; }
 }
